@@ -15,7 +15,7 @@ Package selected search results into a single compressed file (.mpk or .lpk).
 ###Screen Captures
 ![Create Esri Package] (imgs/create_esri_package_0.png "Create Esri Package example")
 
-###Requirements
+###Requirements![](http://i.imgur.com/J0MvXyb.png)
     - ArcGIS 10.x
 
 ### See Also
